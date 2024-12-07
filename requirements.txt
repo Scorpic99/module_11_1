@@ -1,0 +1,7 @@
+﻿numpy==1.26.4
+pygame==2.5.2
+fastapi[all]
+uvicorn==0.32.1
+typing_extensions==4.12.2
+requests==2.32.3
+ujson==5.10.0
